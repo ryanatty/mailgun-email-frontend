@@ -45,7 +45,7 @@ intermediate
 publish
 .idea
 vendor
-composer.phare
+composer.phar
 
 # build script local files
 build/buildinfo.properties
